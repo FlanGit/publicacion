@@ -1,0 +1,6 @@
+.cambiar {
+    color: blueviolet;
+    -webkit-transform: rotate(60deg);
+            transform: rotate(60deg);
+            transform: rotate(60deg)
+}

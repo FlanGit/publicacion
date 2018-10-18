@@ -1,0 +1,8 @@
+:root {
+    --colorbase: blueviolet;
+}
+
+.cambiar {
+    color: var(--colorbase);
+    transform: rotate(60deg)
+}
